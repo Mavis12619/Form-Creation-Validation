@@ -16,7 +16,6 @@ const password = document.getElementById("password").value.trim();
 console.log("Username:", username);
 console.log("Email:", email);
 console.log("Password:", password);
-
 // Step 4: Initialize validation variables
 let isValid = true;
 let messages = [];
